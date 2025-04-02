@@ -83,3 +83,5 @@ watch kubectl get pods -n calico-system
 watch kubectl get nodes -o wide
 
 # you can open the files and put the configueration  that  you need in the file
+
+#Don't forget to add ips for each node in here
